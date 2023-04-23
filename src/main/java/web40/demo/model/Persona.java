@@ -22,14 +22,14 @@ public class Persona {
     @GeneratedValue(strategy = GenerationType.AUTO)
     
     private Long id;
-    private String email;
-    private String contraseña;    
+    private String nombre;
+    private String apellido;    
     public Persona(){
     }
-    public Persona(Long id, String email, String contraseña){
+    public Persona(Long id, String nombre, String apellido){
         this.id = id;
-        this.email = email;
-        this.contraseña = contraseña;
+        this.nombre = nombre;
+        this.apellido = apellido;
     }
 
 }

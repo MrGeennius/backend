@@ -37,10 +37,11 @@ public void borrarPersona (@PathVariable Long id){
 @PutMapping("/modificar/{id}")
 public Persona actualizarPersona (@PathVariable Long id, @RequestBody Persona personaActualizada){
     Persona pers = persoServ.buscarPersona(id);
-    pers.setEmail(personaActualizada.getEmail());
-    pers.setContraseña(personaActualizada.getContraseña());
+    pers.setNombre(personaActualizada.getNombre());
+    pers.setApellido(personaActualizada.getApellido());
   
     persoServ.crearPersona(pers);
     return pers;
 }
+
 }
