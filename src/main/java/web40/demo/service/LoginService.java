@@ -1,10 +1,8 @@
-/* package web40.demo.service;
-
-import com.example.pruebita.model.User;
-import com.example.pruebita.repository.LoginRepository;
-import com.example.pruebita.repository.PersonaRepository;
+ package web40.demo.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import web40.demo.model.User;
+import web40.demo.repository.LoginRepository;
 
 @Service
 public class LoginService {
@@ -22,4 +20,4 @@ public class LoginService {
         }
         else  return false;
     }
-} */
+} 
