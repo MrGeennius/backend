@@ -13,11 +13,15 @@ public class LoginService {
         loginRepository.save(user);
     }
 
-    public boolean checkLogin(User user){
-        User currentUser = loginRepository.findByMailUser(user.getMailUser());
-        if ( currentUser != null){
-            return user.getPasswordUser().equals(currentUser.getPasswordUser()) ;
-        }
-        else  return false;
+    public boolean checkLogin(User user) {
+    User currentUser = loginRepository.findByMailUser(user.getMailUser());
+    if (currentUser != null) {
+        boolean passwordMatches = user.getPasswordUser().equals(currentUser.getPasswordUser());
+        System.out.println("Las contraseñas coinciden: " + passwordMatches); 
+        return passwordMatches;
+    } else {
+        System.out.println("Usuario no encontrado"); 
+        return false;
     }
+}
 } 
