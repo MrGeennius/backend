@@ -1,13 +1,11 @@
-package web40.demo.model;
+ package web40.demo.model;
 
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "user")
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    @Column(name = "id_user", nullable = false)
     private Long idUser;
 
     public Long getIdUser() {
@@ -17,11 +15,9 @@ public class User {
     public void setIdUser(Long idUser) {
         this.idUser = idUser;
     }
-
-    @Column(name = "password_user")
+    @Column(name = "password_user", nullable = false)
     private String passwordUser;
-
-    @Column(name = "mailUser")
+    @Column(name = "mail_user", nullable = false)
     private String mailUser;
 
     public String getPasswordUser() {
@@ -42,4 +38,4 @@ public class User {
     public void setMailUser(String mailUser) {
         this.mailUser = mailUser;
     }
-}
+} 

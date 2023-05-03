@@ -1,4 +1,3 @@
-
 package web40.demo;
 
 import org.springframework.context.annotation.Configuration;
