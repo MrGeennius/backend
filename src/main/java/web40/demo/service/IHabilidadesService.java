@@ -1,6 +1,4 @@
 package web40.demo.service;
-
-import web40.demo.model.Persona;
 import java.util.List;
 import web40.demo.model.Habilidades;
 
