@@ -14,11 +14,14 @@ public class AboutDesc {
     private Long aboutId = 1L;
 
     private String description;
+    
+    private String img_url;
 
     public AboutDesc() {}
 
-    public AboutDesc(String description) {
+    public AboutDesc(String description, String img_url) {
         this.description = description;
+        this.img_url = img_url;
     }
 
     public Long getAboutId() {
