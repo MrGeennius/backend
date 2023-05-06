@@ -5,11 +5,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import web40.demo.model.AboutDesc;
 import web40.demo.service.AboutDescService;
 
 
 @RestController
+@CrossOrigin(origins ={"https://jay-portfolio-316f2.web.app"})
 public class AboutDescController {
     @Autowired
     private AboutDescService aboutDescService;

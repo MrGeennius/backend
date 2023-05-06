@@ -1,6 +1,6 @@
 
 package web40.demo.controller;
-
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -9,6 +9,7 @@ import web40.demo.model.SaludoDesc;
 import web40.demo.service.SaludoDescService;
 
 @RestController
+@CrossOrigin(origins ={"https://jay-portfolio-316f2.web.app"})
 public class SaludoDescController {
     @Autowired
     private SaludoDescService saludoDescService;
