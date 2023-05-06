@@ -10,7 +10,7 @@ public class CORSConfig implements WebMvcConfigurer {
     @Override
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**")
-                .allowedOrigins("https://jay-portfolio-316f2.web.app", "https://jay-service.onrender.com")
+                .allowedOrigins("https://jay-portfolio-316f2.web.app", "https://jay-service.onrender.com","https://jay-portfolio-316f2.firebaseapp.com/")
                 .allowedMethods("*");
     }
 }
