@@ -9,7 +9,7 @@ import web40.demo.model.SaludoDesc;
 import web40.demo.service.SaludoDescService;
 
 @RestController
-@CrossOrigin(origins ={"https://jay-portfolio-316f2.web.app"})
+@CrossOrigin(origins ="https://jay-portfolio-316f2.web.app")
 public class SaludoDescController {
     @Autowired
     private SaludoDescService saludoDescService;

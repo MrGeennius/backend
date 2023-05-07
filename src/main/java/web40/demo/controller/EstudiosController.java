@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import web40.demo.service.IEstudiosService;
 
 @RestController
-@CrossOrigin(origins ={"https://jay-portfolio-316f2.web.app"})
+@CrossOrigin(origins ="https://jay-portfolio-316f2.web.app")
 public class EstudiosController { 
 
 @Autowired
