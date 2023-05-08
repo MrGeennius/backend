@@ -10,7 +10,7 @@ public class CORSConfig implements WebMvcConfigurer {
      @Override
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**")
-                .allowedOrigins("http://localhost:4200","https://jay-portfolio-316f2.web.app","https://jay-service.onrender.com")
+                .allowedOrigins("http://localhost:4200","https://jay-portfolio-316f2.web.app","https://jay-service.onrender.com","https://jay-portfolio-316f2.firebaseapp.com")
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                 .allowedHeaders("*", "Content-Type", "Authorization", "Access-Control-Allow-Origin")
                 .allowCredentials(true);
