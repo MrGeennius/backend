@@ -9,4 +9,4 @@
 ##### fedeslv#6858, Alita#6072
 ##### y Balta#0455
 ##### del discord oficial de Argentina Programa, ayudaron con el Deploy 💕.
-##### Lucas Vilotta compañero de trabajo y Fede Monzon profesor 💕.
+##### Lucas Vilotta compañero de grupo y Fede Monzon profesor 💕.
