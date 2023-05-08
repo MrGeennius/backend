@@ -1,5 +1,5 @@
 
-package web40.demo.Controller;
+package web40.demo.controller;
 import web40.demo.model.Habilidades;
 import web40.demo.service.IHabilidadesService;
 import java.util.List;

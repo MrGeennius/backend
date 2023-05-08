@@ -1,5 +1,5 @@
 
-package web40.demo.Controller;
+package web40.demo.controller;
 import web40.demo.model.Persona;
 import web40.demo.service.IPersonaService;
 import java.util.List;

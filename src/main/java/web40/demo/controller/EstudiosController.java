@@ -1,5 +1,5 @@
 
-package web40.demo.Controller;
+package web40.demo.controller;
 import web40.demo.model.Estudios;
 import web40.demo.service.IEstudiosService;
 import java.util.List;
