@@ -1,38 +1,38 @@
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\model\AboutDesc.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\service\ExperienciasService.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\repository\EstudiosRepository.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\model\Persona.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\controller\EstudiosController.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\model\BannerDesc.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\controller\HabilidadesController.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\CORSConfig.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\service\IExperienciasService.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\service\PersonaService.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\model\Experiencias.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\repository\PersonaRepository.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\model\Estudios.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\controller\ExperienciasController.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\model\User.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\controller\LoginController.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\model\SaludoDesc.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\service\IHabilidadesService.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\controller\AboutDescController.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\service\SaludoDescService.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\service\LoginService.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\service\BannerDescService.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\model\Habilidades.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\service\EstudiosService.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\controller\Controller.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\service\IPersonaService.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\service\IEstudiosService.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\controller\BannerDescController.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\repository\BannerDescRepository.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\service\HabilidadesService.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\JaApplication.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\repository\LoginRepository.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\repository\ExperienciasRepository.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\service\AboutDescService.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\controller\SaludoDescController.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\repository\SaludoDescRepository.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\repository\AboutDescRepository.java
-C:\JUAN\netbeans\BACKUP\netbeans_2023_29_04_19_46\src\main\java\web40\demo\repository\HabilidadesRepository.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\controller\ExperienciasController.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\model\User.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\model\Persona.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\service\BannerDescService.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\repository\PersonaRepository.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\service\ExperienciasService.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\service\LoginService.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\model\Estudios.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\service\HabilidadesService.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\service\IExperienciasService.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\service\IEstudiosService.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\controller\Controller.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\CORSConfig.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\repository\AboutDescRepository.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\controller\BannerDescController.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\repository\BannerDescRepository.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\repository\HabilidadesRepository.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\repository\ExperienciasRepository.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\controller\SaludoDescController.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\repository\SaludoDescRepository.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\service\IPersonaService.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\repository\EstudiosRepository.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\controller\EstudiosController.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\controller\LoginController.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\service\AboutDescService.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\model\SaludoDesc.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\controller\AboutDescController.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\controller\HabilidadesController.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\JaApplication.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\model\BannerDesc.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\model\Experiencias.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\service\PersonaService.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\service\IHabilidadesService.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\repository\LoginRepository.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\model\AboutDesc.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\model\Habilidades.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\service\EstudiosService.java
+C:\JUAN\netbeans\BACKUP\netbeans original\src\main\java\web40\demo\service\SaludoDescService.java
