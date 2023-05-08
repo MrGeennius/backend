@@ -10,7 +10,7 @@ import web40.demo.service.AboutDescService;
 
 
 @RestController
-@CrossOrigin(origins ="https://jay-portfolio-316f2.web.app")
+@CrossOrigin(origins ="https://jay-portfolio-316f2.web.app") 
 public class AboutDescController {
     @Autowired
     private AboutDescService aboutDescService;
