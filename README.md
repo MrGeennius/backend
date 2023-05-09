@@ -8,5 +8,5 @@
 ##### Agradecimientos
 ##### fedeslv#6858, Alita#6072
 ##### y Balta#0455
-##### del discord oficial de Argentina Programa, ayudaron con el Deploy 💕.
-##### Lucas Vilotta compañero de grupo y Fede Monzon profesor 💕.
+##### del discord oficial de Argentina Programa, ayudaron con el Deploy y buenas energias 💕.
+##### Lucas Vilotta compañero de grupo y Federico Mozzon profesor 💕.
